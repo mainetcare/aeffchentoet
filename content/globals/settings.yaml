@@ -1,18 +1,18 @@
 title: Settings
 data:
-  site_name: 'Starter''s Creek'
+  site_name: 'aeffchentoet – das Magazin fuer toete aeffchen'
   personality: casual
   show_signup: true
   social:
     -
       name: Twitter
-      url: 'https://twitter.com/statamic'
+      url: 'https://twitter.com/'
       icon: site/social-icons/twitter.svg
     -
       name: Github
-      url: 'https://github.com/statamic/starter-kit-starters-creek'
+      url: 'https://github.com/mainetcare/aeffchentoet'
       icon: site/social-icons/github.svg
     -
       name: Email
-      url: 'mailto:jack@statamic.com'
+      url: 'mailto:kartoffelsalat-mit-essig-oel-dressing@aeffchentoet.de'
       icon: site/social-icons/email.svg

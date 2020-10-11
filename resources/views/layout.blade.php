@@ -18,7 +18,7 @@
 <noscript>
     <div class="flex justify-center my-5">
         <div class="w-1/2 border-2 border-error-color rounded text-error-color p-2 bg-red-100">
-            Hallo! Mach mal Javascript an oder wie oder was! Ist doch nicht so schwer, einmal in Deinem Leben was richtig zu machen.
+            Hallo! Mach mal Javascript an oder wie oder was! Ist doch nicht so schwer einmal in Deinem Leben was richtig zu machen!
         </div>
     </div>
 </noscript>
@@ -27,7 +27,7 @@
     @include('_layouts.pageerrors')
     @include('_layouts.toast')
 
-{{--    --}}
+    {{--    --}}
 
     @yield('header', View::make('_layouts.header.header'))
     <div>
