@@ -1,0 +1,20 @@
+name: 'Michael Mai'
+super: true
+id: b00965d0-0038-4c82-b1a0-09f9f8c35cf0
+password_hash: $2y$10$UB4vUJ38B9ycMQOfjcqBkewo4C6SBhy6QqaSfHFkPcWTC4DzGI63W
+preferences:
+  taxonomies:
+    tags:
+      after_save: continue_editing
+      columns:
+        - title
+        - content
+        - slug
+  collections:
+    blog:
+      columns:
+        - title
+        - slug
+        - date
+        - author
+        - tags
