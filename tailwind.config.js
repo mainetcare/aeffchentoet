@@ -104,7 +104,7 @@ module.exports = {
       },
       colors: {
       'black': '#12151E',
-      'hot-pink': '#fd2d78'
+      'hot-pink': '#cb0c32'
       },
       fontFamily: {
         display: "var(--font-display)",
